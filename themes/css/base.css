@@ -30,7 +30,7 @@
 #sm{text-align:right}
 #sm a {margin: 4px;width:32px;}
 /* Carousel  */
-#myCarousel{text-align:center; margin-bottom:0}
+#myCarousel{text-align:center; margin-bottom:0;margin-top:-20px;}
 #myCarousel .btn{position:absolute; bottom:10%; right:17%; padding:2% 6%; z-index:9999}
 #myCarousel .carousel-caption{display:none;}
 #myCarousel.homCar .item img{width:100%; max-height:506px}
